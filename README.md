@@ -47,7 +47,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](ORM.png)
+<img width="1840" height="546" alt="image" src="https://github.com/user-attachments/assets/e2575758-2db6-48d3-9951-0d7220a49cc1" />
+
 
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
